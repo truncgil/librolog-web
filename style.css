@@ -1878,19 +1878,19 @@
   }
   .dark .dark\:bg-\[\#15182A\]{
     --tw-bg-opacity: 1;
-    background-color: rgb(21 24 42 / var(--tw-bg-opacity));
+    background-color: rgb(14 28 21);
   }
   .dark .dark\:bg-dark{
     --tw-bg-opacity: 1;
-    background-color: rgb(31 35 58 / var(--tw-bg-opacity));
+    background-color: rgb(14 28 21);
   }
   .dark .dark\:bg-\[\#2A2E44\]{
     --tw-bg-opacity: 1;
-    background-color: rgb(42 46 68 / var(--tw-bg-opacity));
+    background-color: rgb(42 68 43);
   }
   .dark .dark\:bg-\[\#15182B\]{
     --tw-bg-opacity: 1;
-    background-color: rgb(21 24 43 / var(--tw-bg-opacity));
+    background-color: rgb(21 43 37);
   }
   .dark .dark\:bg-stroke-dark{
     --tw-bg-opacity: 1;
